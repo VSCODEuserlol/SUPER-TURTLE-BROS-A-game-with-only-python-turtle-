@@ -29,8 +29,8 @@ Super:G
 
 ## What can you expect in the next version?
 
--Loot drops
+- Loot drops
 
--Obstacles and enemies
+- Obstacles and enemies
 
 Pls donate [anything] if u liked it:)
