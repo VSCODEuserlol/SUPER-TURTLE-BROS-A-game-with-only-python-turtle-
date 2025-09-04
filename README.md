@@ -27,6 +27,10 @@ Super:G
 
 [If boss] Special: o
 
+## VERSION 1.0.1: Mini-update! 
+-Added Lightning Guy, Q*Bert and Icy
+-Next small update will have bosses included 
+
 ## What can you expect in the next version?
 
 - Loot drops
