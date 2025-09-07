@@ -46,6 +46,11 @@ Super:G
 -New character Six Seven [Based on the meme: sixxx seveeen.]
 
 -There is a bug regarding the chracter and will be fixed soon.
+
+## Update V1.0.5: Character Fixes
+-The Six Seven Bug is fixed
+
+-Character fixes
 ## What can you expect in the next BIG update?
 
 - Loot drops
