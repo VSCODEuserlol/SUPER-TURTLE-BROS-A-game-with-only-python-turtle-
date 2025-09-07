@@ -1,5 +1,6 @@
 # SUPER-TURTLE-BROS-A-game-with-only-python-turtle-
 ======Version 1.0.0=======
+-You must have turtle imported! If you don't, click on "file" then "add".
 
 ## What is Super turtle bros?
 
@@ -31,8 +32,21 @@ Super:G
 -Added Lightning Guy, Q*Bert and Icy
 
 -Next small update will have bosses included 
+## VERSION 1.0.3: Big mechanics update!
+-Revamped Lightning guy into another character!
 
-## What can you expect in the next version?
+-Deleted bosses! [V1.0.7 will be bosses readded.]
+
+-New Warparound system like Pac-Man!
+
+-Blocks!
+
+-New character SUPER updadtes
+
+-New character Six Seven [Based on the meme: sixxx seveeen.]
+
+-There is a bug regarding the chracter and will be fixed soon.
+## What can you expect in the next BIG update?
 
 - Loot drops
 
